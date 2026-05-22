@@ -1,2 +1,2 @@
 # Pics
-The pic bed is used for Ob
+This image hosting service is for Ob or thumbnails.
